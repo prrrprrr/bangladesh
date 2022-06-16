@@ -1,0 +1,30 @@
+.Tile-content {
+  width: 70vw;
+  height: 96vh;
+  background-color: #00E0AA;
+  float: left;
+  text-align: center;
+}
+.tiles{
+  float: right;
+}
+.Tile-Login {
+  width: 28vw;
+  height: 21vh;
+  background-color: #F99500;
+  margin-bottom: 1vh;
+  text-align: center;
+}
+.Tile-Rainfall {
+  width: 28vw;
+  height: 36vh;
+  background-color: #F24900;
+  margin-bottom: 1vh;
+  text-align: center;
+}
+.Tile-Temperature {
+  width: 28vw;
+  height: 36vh;
+  background-color: #00E0D3;
+  text-align: center;
+}
